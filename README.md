@@ -9,9 +9,12 @@ pada langkah 9 ini membuat tampilan daftar tugas menjadi dinamis, dan bisa menan
 # 3 Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
 jawaban : method langkah 11 digunakan untuk melakukan data awal sebelum antarmuka dirender. method langkah 13 berguna untuk membersihkan sumber daya ketika widget akan dihapus, dan menutup koneksi/membatalkan timer agar tidak terjadi kebocoran memmori.
 
-# praktikum 2
+# Praktikum 2
 ![Screenshot (43)](https://github.com/user-attachments/assets/49ec0344-5491-48b2-86a5-5a6f1cc6b497)
+# Praktikum 3
 ![plan prak 3](https://github.com/user-attachments/assets/f08840cd-7322-46bf-9c79-e6e24e74ded2)
+![image](https://github.com/user-attachments/assets/bf74d243-e44d-4e8f-aa11-c5bfb6e162bf)
+![image](https://github.com/user-attachments/assets/b1a3c3b3-6557-45f7-b79d-c4ee22adb21d)
 
 
 ## Getting Started
